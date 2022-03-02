@@ -1,1 +1,0 @@
-# cypress-web-automation

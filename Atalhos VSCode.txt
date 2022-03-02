@@ -1,0 +1,53 @@
+#pesquisar
+ctrl + shift + P
+
+#formatar
+alt + shift + f
+
+# ir para uma linha especifica
+ctrl + G
+
+#mover linha
+alt + seta
+
+#duplicar linhas
+alt + shift + seta
+
+#apagar linha completa
+ctrl + shift + K
+
+#selecionar todas as palavras
+ctrl + D
+
+#escrever em mais linhas
+ctrl + alt + seta
+
+#extensões
+
+ES6 Mocha Snippets
+spoonscen.es6-mocha-snippets
+Cory Noonan
+52.805
+Repository
+License
+
+Add Only
+ub1que.add-only
+Ivan Ladyha
+833
+Repository
+
+Fold Plus
+dakara.dakara-foldplus
+dakara
+21.011
+Repository
+
+Bracket Pair Colorizer 2
+coenraads.bracket-pair-colorizer-2
+CoenraadS
+2.270.056
+Repository
+License
+
+

@@ -1,0 +1,11 @@
+
+#criar arquivos de propriedades
+npm init -y
+
+#instalar
+npm install cypress@3.6.0
+
+#abrir cypress
+.\node_modules\.bin\cypress open
+
+#Revisar JS e ES6
